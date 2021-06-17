@@ -1,0 +1,2 @@
+welcome:
+       msg: "Welcome from config server in yml file" 
