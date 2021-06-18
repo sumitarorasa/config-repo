@@ -1,0 +1,15 @@
+welcome:
+       msg: Welcome msg. for ratings-data-service microservices from config server
+       greeting: Hello world from config server
+       list:
+            values: One, Two, Three, Four
+
+db:
+   connection: connection-string-here-from-config-server
+   host: 127.0.0.1
+   port: 1200
+
+server:
+       port: 8083
+
+
