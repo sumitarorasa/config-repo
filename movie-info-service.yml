@@ -9,13 +9,7 @@ db:
    host: 127.0.0.1
    port: 1200
 
-server:
-       port: 8082
+server.port: 8082
+api.key=2351769454c314d72f9ae3a371ac2919
 
-spring:
-       application:
-                   name: movie-info-service
-
-api:
-    key: 2351769454c314d72f9ae3a371ac2919
 
