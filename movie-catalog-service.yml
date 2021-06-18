@@ -1,0 +1,13 @@
+welcome:
+       msg: Welcome msg. for movie-catalog-service microservices from config server
+       greeting: Hello world from config server
+       list:
+            values: One, Two, Three, Four
+
+server:
+       port: 8081
+
+ratings-data-service.ratingsdata.users.url: "http://ratings-data-service/ratingsdata/users/"
+movie-info-service.movie.url: "http://movie-info-service/movies/"
+
+
