@@ -1,5 +1,5 @@
 welcome:
-       msg: Welcome msg from movie-info-service from config server
+       msg: Welcome msg. for movie-info-service microservices from config server
        greeting: Hello world from config server
        list:
             values: One, Two, Three, Four
@@ -9,7 +9,9 @@ db:
    host: 127.0.0.1
    port: 1200
 
-server.port: 8082
-api.key: 2351769454c314d72f9ae3a371ac2919
+server:
+       port: 8082
+api:
+    key: 2351769454c314d72f9ae3a371ac2919
 
 

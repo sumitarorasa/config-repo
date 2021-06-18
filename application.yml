@@ -1,5 +1,5 @@
 welcome:
-       msg: Welcome from config server in yml file
+       msg: Global welcome msg. from config server
        greeting: Hello world from config server
        list:
             values: One, Two, Three, Four
