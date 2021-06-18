@@ -10,6 +10,6 @@ db:
    port: 1200
 
 server.port: 8082
-api.key:2351769454c314d72f9ae3a371ac2919
+api.key: 2351769454c314d72f9ae3a371ac2919
 
 
