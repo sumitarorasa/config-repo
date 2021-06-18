@@ -1,5 +1,5 @@
 welcome:
-       msg: Welcome for movie-info-service from config server in yml file
+       msg: Welcome msg from movie-info-service from config server
        greeting: Hello world from config server
        list:
             values: One, Two, Three, Four
