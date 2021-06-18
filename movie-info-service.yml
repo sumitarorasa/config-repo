@@ -15,7 +15,6 @@ api:
     key: 2351769454c314d72f9ae3a371ac2919
 
 movie:
-      external:
-               utl: "https://api.themoviedb.org/3/movie/"
+      utl: "https://api.themoviedb.org/3/movie/"
 
 
