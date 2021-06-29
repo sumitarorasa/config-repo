@@ -1,5 +1,5 @@
 welcome:
-       msg: Newly updated welcome msg. for ratings-data-service microservices from config server- 2
+       msg: Newly updated welcome msg. for ratings-data-service microservices from config server- 3
        greeting: Hello world from config server
        list:
             values: One, Two, Three, Four
